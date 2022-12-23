@@ -1,0 +1,3 @@
+C:/Users/adria/Desktop/Schnorr/cmake-build-debug/CMakeFiles/Schnorr.dir
+C:/Users/adria/Desktop/Schnorr/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adria/Desktop/Schnorr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

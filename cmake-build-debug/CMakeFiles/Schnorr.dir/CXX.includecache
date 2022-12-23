@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/adria/Desktop/Schnorr/main.cpp
+prover.h
+C:/Users/adria/Desktop/Schnorr/prover.h
+iostream
+-
+ctime
+-
+
+C:/Users/adria/Desktop/Schnorr/prover.h
+cmath
+-
+verifier.h
+C:/Users/adria/Desktop/Schnorr/verifier.h
+view.h
+C:/Users/adria/Desktop/Schnorr/view.h
+iostream
+-
+vector
+-
+
+C:/Users/adria/Desktop/Schnorr/verifier.h
+prover.h
+C:/Users/adria/Desktop/Schnorr/prover.h
+iostream
+-
+view.h
+C:/Users/adria/Desktop/Schnorr/view.h
+vector
+-
+
+C:/Users/adria/Desktop/Schnorr/view.h
+iostream
+-
+cstdlib
+-
+
